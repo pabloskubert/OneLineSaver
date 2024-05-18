@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 const (
-	VERSION  = "1.0.0"
+	VERSION  = "0.0.1"
 	REQARGS  = 2
 	USAGE    = "Usage: olins \"command bar | command foo\" name"
 	EXAMPLE  = "olins \"curl -X POST {site}/{endpoint} \" post_to_endpoint"
